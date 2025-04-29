@@ -27,7 +27,7 @@ const backgroundColor_hover = {
 
 export const modal = {
 	fontFamily: css`var(--rm-global-font-family, inherit)`,
-	fontSize: css`var(--rm-global-font-size, 20px)`,
+	fontSize: '11px',
 	fontWeight: css`var(--rm-global-font-weight, 500)`,
 	borderRadius: css`var(--rm-global-border-radius, 14px)`,
 	backgroundColor: backgroundColor.modal,
